@@ -37,7 +37,7 @@ BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/Indian_MV_Group")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
 #--------------------------------------------
 START_PIC = os.environ.get("START_PIC", "https://envs.sh/41G.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/e292b12890b8b4b9dcbd1.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/7478ff3eac37f4329c3d8.jpg")
 
 #--------------------------------------------
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "shortner.in")
@@ -45,7 +45,7 @@ SHORTLINK_API = os.environ.get("SHORTLINK_API", "4efb1f085f0357c582c6d80e3936a75
 TUT_VID = os.environ.get("TUT_VID","https://t.me/How_To_Download_MVS/7")
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
-SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://telegra.ph/file/ec17880d61180d3312d6a.jpg")
+SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://graph.org/file/242b7f1b52743938d81f1.jpg")
 #--------------------------------------------
 
 #--------------------------------------------
@@ -97,15 +97,15 @@ SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/Indian_MV_Admin_Bot")
 #--------------------------------------------
 #Time and its price
 #7 Days
-PRICE1 = os.environ.get("PRICE1", "0 rs")
+PRICE1 = os.environ.get("PRICE1", "15 rs")
 #1 Month
-PRICE2 = os.environ.get("PRICE2", "60 rs")
+PRICE2 = os.environ.get("PRICE2", "45 rs")
 #3 Month
-PRICE3 = os.environ.get("PRICE3", "150 rs")
+PRICE3 = os.environ.get("PRICE3", "80 rs")
 #6 Month
-PRICE4 = os.environ.get("PRICE4", "280 rs")
+PRICE4 = os.environ.get("PRICE4", "180 rs")
 #1 Year
-PRICE5 = os.environ.get("PRICE5", "550 rs")
+PRICE5 = os.environ.get("PRICE5", "350 rs")
 
 #===================(END)========================#
 
