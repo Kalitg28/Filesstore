@@ -45,7 +45,7 @@ SHORTLINK_API = os.environ.get("SHORTLINK_API", "4efb1f085f0357c582c6d80e3936a75
 TUT_VID = os.environ.get("TUT_VID","https://t.me/How_To_Download_MVS/7")
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
-SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://graph.org/file/242b7f1b52743938d81f1.jpg")
+SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://graph.org/file/56b5deb73f3b132e2bb73.jpg")
 #--------------------------------------------
 
 #--------------------------------------------
