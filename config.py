@@ -40,9 +40,9 @@ START_PIC = os.environ.get("START_PIC", "https://envs.sh/41G.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/7478ff3eac37f4329c3d8.jpg")
 
 #--------------------------------------------
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "shortner.in")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "4efb1f085f0357c582c6d80e3936a75462a33d82")
-TUT_VID = os.environ.get("TUT_VID","https://t.me/How_To_Download_MVS/7")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "")
+TUT_VID = os.environ.get("TUT_VID","")
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
 SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://graph.org/file/56b5deb73f3b132e2bb73.jpg")
